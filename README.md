@@ -92,7 +92,7 @@ php artisan db:seed --class=ResumeSeeder
 
 ## Contact Information
 
-- **Email:** [ashrafhany2830@gmail.com](mailto:ashrafhany283@gmail.com)
+- **Email:** [ashrafhany283@gmail.com](mailto:ashrafhany283@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ashraf-hany-080567247](https://www.linkedin.com/in/ashraf-hany-080567247)
 - **GitHub:** [github.com/ashraf-hany](https://github.com/ashraf-hany)
 
